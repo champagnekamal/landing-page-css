@@ -1,0 +1,31 @@
+#center {
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 450px;
+}
+
+#div {
+    text-align: center;
+}
+
+#header {
+    float: left;
+text-decoration: none;
+   top: 0%;
+
+}
+#top-right {
+position: absolute;
+margin-left: 92%;
+margin-top: 0%;
+
+}
+hr {
+    width: 100%;
+}
+body {
+    background-color: lightgray;
+}
